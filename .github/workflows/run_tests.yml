@@ -15,7 +15,7 @@ jobs:
         with:
           python-version: "3.11"
       - name: install Allure
-        uses: scoop install allure
+        run: scoop install allure
       - name: Install Chrome
         run: sudo apt-get install google-chrome-stable
       - name: Install Modules from requirements.txt
