@@ -1,6 +1,3 @@
-
-
-
 class TestLoginPage:
 
     def test_hp_login(self, login_playwright):

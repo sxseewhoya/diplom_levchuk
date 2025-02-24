@@ -1,4 +1,6 @@
-from pages.base_page import *
+from locators.login_page_locators import LOGIN_FIELD, PASSWORD_FIELD, AUTH_BUTTON, ERROR_LOCATOR
+from pages.base_page import BasePage
+
 
 class LoginPage(BasePage):
 

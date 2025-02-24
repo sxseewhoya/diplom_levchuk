@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7edf8da4-2eb9-4786-8ad8-098fb216529b" name="Changes" comment="finallyy">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/run_tests.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/run_tests.yml" afterDir="false" />
-    </list>
+    <list default="true" id="7edf8da4-2eb9-4786-8ad8-098fb216529b" name="Changes" comment="finallyy" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +56,7 @@
       <recent name="C:\Users\sxseewhoya\PycharmProjects\bh-autotests-actions" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_login_page.TestLoginPage.test_hp_login (1)">
+  <component name="RunManager" selected="Python tests.Python tests for test_login_page.TestLoginPage">
     <configuration name="Python tests for test1.test_failed_login (1)" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="bh-autotests-actions" />
       <option name="ENV_FILES" value="" />
@@ -86,6 +84,21 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test1.test_failed_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_login_page.TestLoginPage" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="bh-autotests-actions" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login_page.TestLoginPage&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -119,28 +132,13 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_saucedemo.test_page_title (1)" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PythonProject1/saucedemo_test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_saucedemo.test_page_title&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_login_page.TestLoginPage" />
         <item itemvalue="Python tests.Python tests for test_login_page.TestLoginPage.test_hp_login (1)" />
         <item itemvalue="Python tests.Python tests for test_login_page.TestLoginPage.test_hp_login" />
         <item itemvalue="Python tests.Python tests for test1.test_failed_login (1)" />
         <item itemvalue="Python tests.Python tests for test1.test_failed_login" />
-        <item itemvalue="Python tests.Python tests for test_saucedemo.test_page_title (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +286,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740418715765</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="finallyy">
+      <option name="closed" value="true" />
+      <created>1740419045250</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1740419045250</updated>
+    </task>
+    <task id="LOCAL-00018" summary="finallyy">
+      <option name="closed" value="true" />
+      <created>1740419228157</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1740419228157</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
