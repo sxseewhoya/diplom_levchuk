@@ -1,6 +1,17 @@
 name: Tests
 
-on: [push]
+on:
+  workflow_dispatch:
+    inputs:
+      deployment_target:
+        description: Choose target
+        required: true
+        default:
+        type: choice
+        options:
+          - login_page
+          - product_page
+
 
 jobs:
   test:
@@ -23,5 +34,9 @@ jobs:
       run: |
         npx playwright install --with-deps
 
-    - name: Run tests
-      run: python -m pytest
+    - name: Tests for Login page
+      if: "github.event.inputs.deployment_target == 'login_page'"
+      run: python -m pytest tests/test_login_page.py
+    - name: Tests for Product page
+      if: "github.event.inputs.deployment_target == 'product_page'"
+      run: python -m pytest tests/test_product_page.py
