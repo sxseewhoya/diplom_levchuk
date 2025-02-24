@@ -1,7 +1,7 @@
 import pytest
 from playwright.sync_api import sync_playwright
 
-from lesson_15.pages.login_page import LoginPage
+from pages.login_page import LoginPage
 
 
 @pytest.fixture(scope='session')
