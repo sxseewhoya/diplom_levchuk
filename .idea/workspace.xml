@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7edf8da4-2eb9-4786-8ad8-098fb216529b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/run_tests.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/bh-autotests-actions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PythonProject1/lesson_1/class_materials/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProject1/lesson_1/class_materials/task_4.py" afterDir="false" />
+    <list default="true" id="7edf8da4-2eb9-4786-8ad8-098fb216529b" name="Changes" comment="add reqs">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../PythonProject1" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -47,12 +39,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for test1.test_failed_login (1).executor": "Run",
     "Python tests.Python tests for test1.test_failed_login.executor": "Run",
     "Python tests.Python tests for test_login_page.TestLoginPage.test_hp_login.executor": "Run",
+    "Python tests.Python tests in test_saucedemo.py (1).executor": "Run",
     "Python tests.Python tests in test_saucedemo.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "#5 on master",
+    "git-widget-placeholder": "#5 on feature/savely__levchuk/homework__1",
     "last_opened_file_path": "C:/Users/sxseewhoya/PycharmProjects/bh-autotests-actions"
   }
 }]]></component>
@@ -61,7 +55,22 @@
       <recent name="C:\Users\sxseewhoya\PycharmProjects\bh-autotests-actions" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test1.test_failed_login">
+  <component name="RunManager" selected="Python tests.Python tests in test_saucedemo.py (1)">
+    <configuration name="Python tests for test1.test_failed_login (1)" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="bh-autotests-actions" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test1.test_failed_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for test1.test_failed_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
@@ -92,6 +101,21 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in test_saucedemo.py (1)" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PythonProject1/saucedemo_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/../PythonProject1/saucedemo_test/test_saucedemo.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests in test_saucedemo.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="bh-autotests-actions" />
       <option name="ENV_FILES" value="" />
@@ -109,6 +133,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests in test_saucedemo.py (1)" />
+        <item itemvalue="Python tests.Python tests for test1.test_failed_login (1)" />
         <item itemvalue="Python tests.Python tests for test1.test_failed_login" />
         <item itemvalue="Python tests.Python tests in test_saucedemo.py" />
         <item itemvalue="Python tests.Python tests for test_login_page.TestLoginPage.test_hp_login" />
@@ -131,7 +157,29 @@
       <option name="presentableId" value="Default" />
       <updated>1740414090905</updated>
     </task>
+    <task id="LOCAL-00001" summary="add yml">
+      <option name="closed" value="true" />
+      <created>1740415919211</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740415919211</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add reqs">
+      <option name="closed" value="true" />
+      <created>1740416221221</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740416221221</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add yml" />
+    <MESSAGE value="add reqs" />
+    <option name="LAST_COMMIT_MESSAGE" value="add reqs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
