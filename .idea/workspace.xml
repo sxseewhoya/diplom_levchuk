@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7edf8da4-2eb9-4786-8ad8-098fb216529b" name="Changes" comment="finallyy">
-      <change beforePath="$PROJECT_DIR$/base_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/login_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_login_page.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../PythonProject1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -42,6 +41,7 @@
   "keyToString": {
     "Python tests.Python tests for test1.test_failed_login (1).executor": "Run",
     "Python tests.Python tests for test1.test_failed_login.executor": "Run",
+    "Python tests.Python tests for test_login_page.TestLoginPage.test_hp_login (1).executor": "Run",
     "Python tests.Python tests for test_login_page.TestLoginPage.test_hp_login.executor": "Run",
     "Python tests.Python tests for test_saucedemo.test_page_title (1).executor": "Run",
     "Python tests.Python tests for test_saucedemo.test_page_title.executor": "Run",
@@ -49,7 +49,7 @@
     "Python tests.Python tests in test_saucedemo.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "#5 on feature/savely__levchuk/homework__1",
+    "git-widget-placeholder": "#5 on main",
     "last_opened_file_path": "C:/Users/sxseewhoya/PycharmProjects/bh-autotests-actions"
   }
 }]]></component>
@@ -240,7 +240,31 @@
       <option name="project" value="LOCAL" />
       <updated>1740418219597</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="finallyy">
+      <option name="closed" value="true" />
+      <created>1740418352009</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1740418352009</updated>
+    </task>
+    <task id="LOCAL-00012" summary="finallyy">
+      <option name="closed" value="true" />
+      <created>1740418418466</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1740418418466</updated>
+    </task>
+    <task id="LOCAL-00013" summary="finallyy">
+      <option name="closed" value="true" />
+      <created>1740418517609</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1740418517610</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
