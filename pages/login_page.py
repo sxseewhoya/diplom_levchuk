@@ -1,4 +1,4 @@
-from lesson_15.pages.base_page import *
+from pages.base_page import *
 
 class LoginPage(BasePage):
 

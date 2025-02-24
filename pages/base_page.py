@@ -1,6 +1,6 @@
 from playwright.sync_api import Page
 
-from lesson_15.locators.login_page_locators import *
+from locators.login_page_locators import *
 
 
 class BasePage:
