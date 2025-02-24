@@ -39,6 +39,7 @@
   "keyToString": {
     "Python tests.Python tests for test1.test_failed_login (1).executor": "Run",
     "Python tests.Python tests for test1.test_failed_login.executor": "Run",
+    "Python tests.Python tests for test_login_page.TestLoginPage.executor": "Run",
     "Python tests.Python tests for test_login_page.TestLoginPage.test_hp_login (1).executor": "Run",
     "Python tests.Python tests for test_login_page.TestLoginPage.test_hp_login.executor": "Run",
     "Python tests.Python tests for test_saucedemo.test_page_title (1).executor": "Run",
@@ -302,7 +303,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740419228157</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="finallyy">
+      <option name="closed" value="true" />
+      <created>1740419581288</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1740419581288</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
