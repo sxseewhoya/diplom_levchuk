@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7edf8da4-2eb9-4786-8ad8-098fb216529b" name="Changes" comment="qq" />
+    <list default="true" id="7edf8da4-2eb9-4786-8ad8-098fb216529b" name="Changes" comment="qq">
+      <change beforePath="$PROJECT_DIR$/../diplom812/.github/workflows/run_tests.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diplom812/.idea/bh-autotests-actions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../diplom812/.idea/bh-autotests-actions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diplom812/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../diplom812/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diplom812/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../diplom812/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diplom812/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../diplom812/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diplom812/locators/login_page_locators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diplom812/locators/product_page_locators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diplom812/pages/base_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diplom812/pages/login_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diplom812/pages/product_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diplom812/tests/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diplom812/tests/test_login_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../diplom812/tests/test_product_page.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,21 +35,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "sxseewhoya"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sxseewhoya&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/mikyyL/belhard-group-online.git",
-    "accountId": "a47dcb38-b3c9-4ca1-9a6e-6a25db53b8dd"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mikyyL/belhard-group-online.git&quot;,
+    &quot;accountId&quot;: &quot;a47dcb38-b3c9-4ca1-9a6e-6a25db53b8dd&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2tUkYoFxY1thofCeGH6ZY6VyphC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -46,56 +60,72 @@
   "keyToString": {
     "Python tests.Python tests for test1.test_failed_login (1).executor": "Run",
     "Python tests.Python tests for test1.test_failed_login.executor": "Run",
+    "Python tests.Python tests for test1.test_withdrawal.executor": "Run",
+    "Python tests.Python tests for test_banking.TestBanking.executor": "Run",
+    "Python tests.Python tests for test_banking.TestBanking.test_reset_transactions.executor": "Run",
+    "Python tests.Python tests for test_banking.TestBanking.test_withdrawal.executor": "Run",
     "Python tests.Python tests for test_login_page.TestLoginPage.executor": "Run",
     "Python tests.Python tests for test_login_page.TestLoginPage.test_hp_login (1).executor": "Run",
     "Python tests.Python tests for test_login_page.TestLoginPage.test_hp_login.executor": "Run",
+    "Python tests.Python tests for test_login_page.test_account_switch.executor": "Run",
+    "Python tests.Python tests for test_login_page.test_customer_login.executor": "Run",
+    "Python tests.Python tests for test_login_page.test_customer_logout.executor": "Run",
+    "Python tests.Python tests for test_login_page.test_deposit.executor": "Run",
+    "Python tests.Python tests for test_login_page.test_home_button.executor": "Run",
+    "Python tests.Python tests for test_login_page.test_reset_transactions.executor": "Run",
+    "Python tests.Python tests for test_login_page.test_transaction_creation.executor": "Run",
+    "Python tests.Python tests for test_login_page.test_transactions_page.executor": "Run",
+    "Python tests.Python tests for test_login_page.test_withdrawal.executor": "Run",
     "Python tests.Python tests for test_saucedemo.test_page_title (1).executor": "Run",
     "Python tests.Python tests for test_saucedemo.test_page_title.executor": "Run",
+    "Python tests.Python tests in test_banking.py.executor": "Run",
+    "Python tests.Python tests in test_iframe.py.executor": "Run",
+    "Python tests.Python tests in test_login_page.py.executor": "Run",
     "Python tests.Python tests in test_saucedemo.py (1).executor": "Run",
     "Python tests.Python tests in test_saucedemo.py.executor": "Run",
+    "Python.account_page.executor": "Run",
+    "Python.asd.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "#5 on main",
-    "last_opened_file_path": "C:/Users/sxseewhoya/PycharmProjects/bh-autotests-actions"
+    "last_opened_file_path": "C:/Users/sxseewhoya/PycharmProjects/diplomm",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sxseewhoya\PycharmProjects\diplomm" />
       <recent name="C:\Users\sxseewhoya\PycharmProjects\bh-autotests-actions" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sxseewhoya\PycharmProjects\bh-autotests-actions" />
+      <recent name="C:\Users\sxseewhoya\PycharmProjects\PythonProject1\lesson_15\tests" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_login_page.TestLoginPage">
-    <configuration name="Python tests for test1.test_failed_login (1)" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for tests.test_banking.TestBanking">
+    <configuration name="account_page" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bh-autotests-actions" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pages" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test1.test_failed_login&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pages/account_page.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test1.test_failed_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PythonProject1/playwright" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test1.test_failed_login&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_login_page.TestLoginPage" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for tests.test_banking" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="bh-autotests-actions" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,11 +136,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_login_page.TestLoginPage&quot;" />
+      <option name="_new_target" value="&quot;tests.test_banking&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_login_page.TestLoginPage.test_hp_login (1)" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for tests.test_banking.TestBanking" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="bh-autotests-actions" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,32 +151,77 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_login_page.TestLoginPage.test_hp_login&quot;" />
+      <option name="_new_target" value="&quot;tests.test_banking.TestBanking&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_login_page.TestLoginPage.test_hp_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject1" />
+    <configuration name="Python tests for tests.test_banking.TestBanking.test_reset_transactions" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="bh-autotests-actions" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PythonProject1/lesson_15/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_login_page.TestLoginPage.test_hp_login&quot;" />
+      <option name="_new_target" value="&quot;tests.test_banking.TestBanking.test_reset_transactions&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests.test_banking.TestBanking.test_withdrawal" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="bh-autotests-actions" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_banking.TestBanking.test_withdrawal&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests.test_banking" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="bh-autotests-actions" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_banking&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_banking.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="bh-autotests-actions" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_banking.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_login_page.TestLoginPage" />
-        <item itemvalue="Python tests.Python tests for test_login_page.TestLoginPage.test_hp_login (1)" />
-        <item itemvalue="Python tests.Python tests for test_login_page.TestLoginPage.test_hp_login" />
-        <item itemvalue="Python tests.Python tests for test1.test_failed_login (1)" />
-        <item itemvalue="Python tests.Python tests for test1.test_failed_login" />
+        <item itemvalue="Python tests.Python tests for tests.test_banking.TestBanking" />
+        <item itemvalue="Python tests.Python tests for tests.test_banking.TestBanking.test_withdrawal" />
+        <item itemvalue="Python tests.Python tests for tests.test_banking.TestBanking.test_reset_transactions" />
+        <item itemvalue="Python tests.Python tests in test_banking.py" />
+        <item itemvalue="Python.account_page" />
       </list>
     </recent_temporary>
   </component>
@@ -358,8 +433,19 @@
       <option name="project" value="LOCAL" />
       <updated>1740423757631</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="qq">
+      <option name="closed" value="true" />
+      <created>1740423993691</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1740423993691</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="Dockerfile" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add yml" />

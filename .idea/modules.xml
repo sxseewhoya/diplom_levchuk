@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../PythonProject1/.idea/PythonProject1.iml" filepath="$PROJECT_DIR$/../PythonProject1/.idea/PythonProject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../asd/.idea/asd.iml" filepath="$PROJECT_DIR$/../asd/.idea/asd.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/bh-autotests-actions.iml" filepath="$PROJECT_DIR$/.idea/bh-autotests-actions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../diplomm/.idea/diplomm.iml" filepath="$PROJECT_DIR$/../diplomm/.idea/diplomm.iml" />
     </modules>
   </component>
 </project>
