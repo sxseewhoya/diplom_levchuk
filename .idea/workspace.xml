@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7edf8da4-2eb9-4786-8ad8-098fb216529b" name="Changes" comment="qq">
-      <change beforePath="$PROJECT_DIR$/../diplom812/.github/workflows/run_tests.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../diplom812/.idea/bh-autotests-actions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../diplom812/.idea/bh-autotests-actions.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../diplom812/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../diplom812/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../diplom812/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../diplom812/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../diplom812/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../diplom812/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../diplom812/locators/login_page_locators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../diplom812/locators/product_page_locators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../diplom812/pages/base_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../diplom812/pages/login_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../diplom812/pages/product_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../diplom812/tests/conftest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../diplom812/tests/test_login_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../diplom812/tests/test_product_page.py" beforeDir="false" />
+    <list default="true" id="7edf8da4-2eb9-4786-8ad8-098fb216529b" name="Changes" comment="qqq">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
@@ -56,42 +49,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for test1.test_failed_login (1).executor": "Run",
-    "Python tests.Python tests for test1.test_failed_login.executor": "Run",
-    "Python tests.Python tests for test1.test_withdrawal.executor": "Run",
-    "Python tests.Python tests for test_banking.TestBanking.executor": "Run",
-    "Python tests.Python tests for test_banking.TestBanking.test_reset_transactions.executor": "Run",
-    "Python tests.Python tests for test_banking.TestBanking.test_withdrawal.executor": "Run",
-    "Python tests.Python tests for test_login_page.TestLoginPage.executor": "Run",
-    "Python tests.Python tests for test_login_page.TestLoginPage.test_hp_login (1).executor": "Run",
-    "Python tests.Python tests for test_login_page.TestLoginPage.test_hp_login.executor": "Run",
-    "Python tests.Python tests for test_login_page.test_account_switch.executor": "Run",
-    "Python tests.Python tests for test_login_page.test_customer_login.executor": "Run",
-    "Python tests.Python tests for test_login_page.test_customer_logout.executor": "Run",
-    "Python tests.Python tests for test_login_page.test_deposit.executor": "Run",
-    "Python tests.Python tests for test_login_page.test_home_button.executor": "Run",
-    "Python tests.Python tests for test_login_page.test_reset_transactions.executor": "Run",
-    "Python tests.Python tests for test_login_page.test_transaction_creation.executor": "Run",
-    "Python tests.Python tests for test_login_page.test_transactions_page.executor": "Run",
-    "Python tests.Python tests for test_login_page.test_withdrawal.executor": "Run",
-    "Python tests.Python tests for test_saucedemo.test_page_title (1).executor": "Run",
-    "Python tests.Python tests for test_saucedemo.test_page_title.executor": "Run",
-    "Python tests.Python tests in test_banking.py.executor": "Run",
-    "Python tests.Python tests in test_iframe.py.executor": "Run",
-    "Python tests.Python tests in test_login_page.py.executor": "Run",
-    "Python tests.Python tests in test_saucedemo.py (1).executor": "Run",
-    "Python tests.Python tests in test_saucedemo.py.executor": "Run",
-    "Python.account_page.executor": "Run",
-    "Python.asd.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "#5 on main",
-    "last_opened_file_path": "C:/Users/sxseewhoya/PycharmProjects/diplomm",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test1.test_failed_login (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test1.test_failed_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test1.test_withdrawal.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_banking.TestBanking.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_banking.TestBanking.test_reset_transactions.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_banking.TestBanking.test_withdrawal.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login_page.TestLoginPage.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login_page.TestLoginPage.test_hp_login (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login_page.TestLoginPage.test_hp_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login_page.test_account_switch.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login_page.test_customer_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login_page.test_customer_logout.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login_page.test_deposit.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login_page.test_home_button.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login_page.test_reset_transactions.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login_page.test_transaction_creation.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login_page.test_transactions_page.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_login_page.test_withdrawal.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_saucedemo.test_page_title (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_saucedemo.test_page_title.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_banking.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_iframe.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_login_page.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_saucedemo.py (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_saucedemo.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.account_page.executor&quot;: &quot;Run&quot;,
+    &quot;Python.asd.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;#5 on main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sxseewhoya/PycharmProjects/diplomm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\sxseewhoya\PycharmProjects\diplomm" />
@@ -441,11 +434,30 @@
       <option name="project" value="LOCAL" />
       <updated>1740423993691</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="qqq">
+      <option name="closed" value="true" />
+      <created>1741198080975</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1741198080975</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="Dockerfile" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add yml" />
@@ -458,6 +470,7 @@
     <MESSAGE value="finally" />
     <MESSAGE value="finallyy" />
     <MESSAGE value="qq" />
-    <option name="LAST_COMMIT_MESSAGE" value="qq" />
+    <MESSAGE value="qqq" />
+    <option name="LAST_COMMIT_MESSAGE" value="qqq" />
   </component>
 </project>
