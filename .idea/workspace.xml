@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7edf8da4-2eb9-4786-8ad8-098fb216529b" name="Changes" comment="qqq">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7edf8da4-2eb9-4786-8ad8-098fb216529b" name="Changes" comment="qqqq" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -442,7 +440,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741198080975</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="qqqq">
+      <option name="closed" value="true" />
+      <created>1741198773905</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1741198773905</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -471,6 +477,7 @@
     <MESSAGE value="finallyy" />
     <MESSAGE value="qq" />
     <MESSAGE value="qqq" />
-    <option name="LAST_COMMIT_MESSAGE" value="qqq" />
+    <MESSAGE value="qqqq" />
+    <option name="LAST_COMMIT_MESSAGE" value="qqqq" />
   </component>
 </project>
